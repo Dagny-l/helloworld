@@ -14,6 +14,6 @@ printf("Hello World!"\n);
 * World<br>
 1.Hello<br>
 2.World <br>
-__Hello World__<br>
-_Hello World_<br>
-
+__HelloWorld__<br>
+_HelloWorld_<br>
+~~HelloWorld~~
