@@ -14,7 +14,7 @@ printf("Hello World!"\n);
 * World<br>
 1.Hello<br>
 2.World <br>
-**HelloWorld<br>
-*HelloWorld<br>
-~~HelloWorld<br>
+**HelloWorld**<br>
+*HelloWorld*<br>
+~~HelloWorld~~<br>
 ---
