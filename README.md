@@ -11,7 +11,7 @@ printf("Hello World!"\n);
 <p>here is a long quotation here is a long quotation</p>
 </blockquote>　
 - HelloWorld<br>
-HelloWorld 
-**Hello World**
-*Hello World*
+HelloWorld <br>
+** Hello World **<br>
+* Hello World *<br>
 
