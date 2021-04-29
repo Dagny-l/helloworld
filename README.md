@@ -10,8 +10,10 @@ printf("Hello World!"\n);
 <blockquote>
 <p>here is a long quotation here is a long quotation</p>
 </blockquote>　
-- HelloWorld<br>
-HelloWorld <br>
-** Hello World **<br>
-* Hello World *<br>
+* Hello<br>
+* World<br>
+1.Hello<br>
+2.World <br>
+__Hello World__<br>
+_Hello World_<br>
 
