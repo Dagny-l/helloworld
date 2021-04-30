@@ -15,6 +15,6 @@ printf("Hello World!"\n);
 1.Hello<br>
 2.World <br>
 <b>HelloWorld</b><br>
-*HelloWorld*<br>
-~~HelloWorld~~<br>
----
+<i>HelloWorld</i><br>
+<s>HelloWorld</s><br>
+<u>---</u>
