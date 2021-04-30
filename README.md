@@ -3,7 +3,7 @@
 [超星](http://jlu.fy.chaoxing.com/portal)<br>
 [1.md](https://github.com/Dagny-l/helloworld/edit/main/1.md)<br>
 <img src="https://github.com/Dagny-l/helloworld/blob/main/images/Screenshot_20200701_070157_com.tencent.swy.jpg" alt="repositories"><br>
-<img src="https://pic.sogou.com/d?query=GitHub&forbidqc=&entityid=&preQuery=&rawQuery=&queryList=&st=&did=2" alt="net"><br>
+<img src="http://cdn.onlinewebfonts.com/svg/img_432833.png" alt="net"><br>
 ```c
 printf("Hello World!"\n);
 ```
